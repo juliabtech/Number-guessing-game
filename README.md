@@ -13,4 +13,3 @@ A simple number guessing game using Java to build it. The player has 5 attemps t
 - Conditional Statements.
 - Logical operators.
 - User input.
-- Random number generation. 
